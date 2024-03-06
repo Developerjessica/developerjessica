@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou estudante FrontEnd, estou em busca de um estágio 
+Atualmente sou estudante de análise e desenvolvimento de sistemas para a area de  FrontEnd
 
 
 ## 🌐 Socials:
